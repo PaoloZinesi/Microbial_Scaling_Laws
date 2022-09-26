@@ -1,4 +1,4 @@
-# Explaining microbial scaling laws using Bayesian inference
+# Explaining microbial scaling laws using Bayesian inference ![ ](https://img.shields.io/badge/python-3c78aa?style=for-the-badge&logo=python&logoColor=ffe874)
 In this project, we want to combine methods from _Statistical Physics_ and _Bayesian Data Analysis_ to elucidate the principles behind cellular growth and division. We will study various classes of individual-based growth-division models and infer individal-level processes (model structures and likely ranges of associated parameters) from sigle-cell observations. In the _Bayesian framework_, we formalize our process understanding the form of different rate functions, expressing the dependence of growth and division rates on variables characterizing a cell’s state (such as size and protein content), and calculate the Bayesian posteriors for the parameters of these functions.
 
 ## Group 
